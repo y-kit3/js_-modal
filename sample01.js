@@ -18,6 +18,8 @@ function　popupImg () {
         elem.addEventListener('click', function() {
             popup.classList.toggle('is-show');
         })
+        console.log ('elem=>',elem);
+        console.log ('popup=>',popup);
     }
 }
 
