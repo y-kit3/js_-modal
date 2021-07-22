@@ -10,6 +10,7 @@
     transition: .6s;
 }
 
+/*追加するCSSクラス*/
 .popup.is-show {
     opacity: 1;
     visibility: visible;
