@@ -8,7 +8,7 @@ function　popupImg () {
     var closeBtn = document.getElementById('js-close-btn');
     var showBtn = document.getElementById('js-open-btn');
 
-    //functionを呼び出す
+    //functionを呼び出す?
     closePopUp(blackBg);
     closePopUp(closeBtn);
     closePopUp(showBtn);
